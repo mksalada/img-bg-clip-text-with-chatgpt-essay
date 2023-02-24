@@ -1,5 +1,5 @@
 # img-bg-clip-text-with-chatgpt-essay
-Trying 'background-clip: text;' (CSS) with ChatGPT's generated essay
+Trying out the CSS' `background-clip: text;` with ChatGPT's generated essay
 
 ```css
 p {
