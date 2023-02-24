@@ -8,7 +8,7 @@ p {
 }
 ```
 
-> Hear me out, I saw a tweet about how you can used a two-line css code to create an awesome image so I tried it and it worked. At first, I used the classic *Lorem, ipsum.* but then, I thought about ChatGPT so yeah, I told ChatGPT to write an essay about overthinking. It's not enought to fit to my image so I decided to added bible verses for it.
+> Hear me out, I saw a tweet about how you can used a two-line CSS code to create an awesome image so I tried it and it worked. At first, I used the classic *Lorem, ipsum.* but then, I thought about ChatGPT so yeah, I told ChatGPT to write an essay about overthinking. It's not enough to fit to my image so I decided to added bible verses for it.
 
 # ChatGPT generated essay
 > **write an essay about christians who overthinks a lot contains only 520 words**
@@ -32,21 +32,21 @@ In conclusion, overthinking can be a common struggle for Christians, but it is n
 ```
 Here are some Bible verses that may be helpful for those struggling with overthinking:
 
-Philippians 4:6-7: "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+1. Philippians 4:6-7: "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
 
-Matthew 6:34: "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+2. Matthew 6:34: "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
 
-Proverbs 3:5-6: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+3. Proverbs 3:5-6: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
 
-Psalm 55:22: "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
+4. Psalm 55:22: "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken."
 
-Philippians 4:8: "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."
+5. Philippians 4:8: "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things."
 
-Isaiah 26:3: "You will keep in perfect peace those whose minds are steadfast, because they trust in you."
+6. Isaiah 26:3: "You will keep in perfect peace those whose minds are steadfast, because they trust in you."
 
-Colossians 3:2: "Set your minds on things above, not on earthly things."
+7. Colossians 3:2: "Set your minds on things above, not on earthly things."
 
-Matthew 11:28-30: "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
+8. Matthew 11:28-30: "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
 
 These verses remind us to trust in God, to cast our cares on Him, and to focus on the present moment rather than worrying about the future. They also encourage us to think about positive and uplifting things rather than dwelling on negative thoughts. By turning to God and relying on His strength and wisdom, we can find peace and rest for our minds and hearts.
 ```
