@@ -8,7 +8,7 @@ p {
 }
 ```
 
-> Hear me out, I saw a tweet about how you can used a two-line CSS code to create an awesome image so I tried it and it worked. At first, I used the classic *Lorem, ipsum.* but then, I thought about ChatGPT so yeah, I told ChatGPT to write an essay about overthinking. It's not enough to fit to my image so I decided to added bible verses for it.
+> Hear me out, I saw a [tweet](https://twitter.com/Prathkum/status/1628653658253697025) about how you can just use two lines of CSS code to create a text portrait, so I tried it and it worked. At first, I used the classic *Lorem, ipsum.* but then, I thought about ChatGPT so yeah, I told ChatGPT to write an essay about overthinking. It's not enough to fit to my image so I decided to added bible verses for it.
 
 # ChatGPT generated essay
 > **write an essay about christians who overthinks a lot contains only 520 words**
