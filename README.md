@@ -1,4 +1,4 @@
-# img-bg-clip-text-with-chatgpt-essay
+# text-portrait-with-chatgpt-essay
 Trying out the CSS' `background-clip: text;` with ChatGPT's generated essay
 
 ```css
@@ -12,7 +12,7 @@ p {
 
 # ChatGPT generated essay
 > **write an essay about christians who overthinks a lot contains only 520 words**
-```
+
 For Christians, overthinking can be a common struggle. It is easy to get caught up in our thoughts, analyzing and over-analyzing every decision and action we make. While it is important to consider the consequences of our choices, overthinking can lead to anxiety, indecisiveness, and even paralysis. In this essay, we will explore the reasons why Christians may overthink, the negative effects of overthinking, and some strategies to overcome this tendency.
 
 Christians who overthink may do so for several reasons. One reason is a desire to please God and make the right choices. As Christians, we want to honor God in all that we do, and this can lead to a fear of making mistakes or doing something that goes against His will. Another reason is a lack of trust in ourselves or in God. We may doubt our abilities or God's ability to guide us, which can lead to overthinking as we try to control every aspect of our lives.
@@ -26,10 +26,10 @@ Another strategy is to set clear goals and priorities. By identifying what is mo
 Finally, we can practice mindfulness and live in the present moment. By focusing on what is happening right now, rather than worrying about the past or future, we can reduce anxiety and make more thoughtful decisions. We can also spend time in prayer and meditation, seeking God's guidance and peace in our lives.
 
 In conclusion, overthinking can be a common struggle for Christians, but it is not insurmountable. By practicing self-awareness, setting clear goals, seeking guidance from others, and practicing mindfulness, we can overcome this tendency and make decisions with greater confidence and peace. As Christians, we can trust that God is always with us and will guide us on the path He has set for us. By letting go of our fears and worries, we can embrace the present moment and live our lives with purpose and joy.
-```
+
 
 > **bible verses about overthinking**
-```
+
 Here are some Bible verses that may be helpful for those struggling with overthinking:
 
 1. Philippians 4:6-7: "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
@@ -49,4 +49,4 @@ Here are some Bible verses that may be helpful for those struggling with overthi
 8. Matthew 11:28-30: "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
 
 These verses remind us to trust in God, to cast our cares on Him, and to focus on the present moment rather than worrying about the future. They also encourage us to think about positive and uplifting things rather than dwelling on negative thoughts. By turning to God and relying on His strength and wisdom, we can find peace and rest for our minds and hearts.
-```
+
